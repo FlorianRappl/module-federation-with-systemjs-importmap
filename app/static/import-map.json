@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "mf1": "http://localhost:8081/remoteEntry.js",
+    "mf2": "http://localhost:8082/remoteEntry.js"
+  }
+}
